@@ -1,0 +1,15 @@
+C:\Users\mbalt\Desktop\pratikler\console_8\bin\Debug\net6.0\console_8.exe
+C:\Users\mbalt\Desktop\pratikler\console_8\bin\Debug\net6.0\console_8.deps.json
+C:\Users\mbalt\Desktop\pratikler\console_8\bin\Debug\net6.0\console_8.runtimeconfig.json
+C:\Users\mbalt\Desktop\pratikler\console_8\bin\Debug\net6.0\console_8.dll
+C:\Users\mbalt\Desktop\pratikler\console_8\bin\Debug\net6.0\ref\console_8.dll
+C:\Users\mbalt\Desktop\pratikler\console_8\bin\Debug\net6.0\console_8.pdb
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\console_8.csproj.AssemblyReference.cache
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\console_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\console_8.AssemblyInfoInputs.cache
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\console_8.AssemblyInfo.cs
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\console_8.csproj.CoreCompileInputs.cache
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\console_8.dll
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\ref\console_8.dll
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\console_8.pdb
+C:\Users\mbalt\Desktop\pratikler\console_8\obj\Debug\net6.0\console_8.genruntimeconfig.cache
